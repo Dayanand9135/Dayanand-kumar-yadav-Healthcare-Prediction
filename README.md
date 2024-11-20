@@ -1,1 +1,1 @@
-# Dayanand-kumar-yadav-Healthcare-Prediction
+AICTE-Internship-Healthcare-Prediction
